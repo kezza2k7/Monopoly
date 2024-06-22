@@ -23,10 +23,6 @@ This is Monopoly built in Java using InteliJ IDEA, It's classic monopoly, but pl
 - Game Ending Function
 
 ## Installation
-1. Download the File from Releases
-2. There u go!
-
-## Installation (Expert)
 1. Clone the repository: `git clone https://github.com/kezza2k7/Monopoly`
 2. Navigate to the project directory: `cd Monopoly/${"Java Discord" / "Java Terminal"}`
 3. Open the folder in InteliJ and run it ( or use another program )
@@ -34,7 +30,6 @@ This is Monopoly built in Java using InteliJ IDEA, It's classic monopoly, but pl
 ## Usage
 1. For the Discord version open up the Bot Class and insert your token in there 
 2. Start it 
-
 
 ## Contributing
 Contributions are welcome! If you have any ideas or suggestions, please open an issue or submit a pull request.
