@@ -1,4 +1,5 @@
 # Monopoly
+## This will not be worked on ( It may not work ) 
 
 ## Description
 This is Monopoly built in Java using InteliJ IDEA, It's classic monopoly, but planned to have some extra features/ideas
